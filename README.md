@@ -6,22 +6,21 @@ Abstract: This study examines the impact of consumer physical mobility on sales,
 
 ## 🚀 Getting Started
 
-These instructions will allow you to get a copy of the project up and running on your local machine for development and testing purposes.
+These instructions will allow you to set up a copy of the project on your local machine for development and testing purposes.
 
 See **[Deployment](#-deployment)** to learn how to deploy the project.
 
 ### 📋 Prerequisites
 
 Database:
-Base 1) Private Data - Logan (request from the author at rafaelpalbuquerque@hotmail.com);
-Base 2) 2927408_salvador_setores_2021.geojson (source: https://dados.salvador.ba.gov.br/datasets/467ac1de99654030890d0af21724e1d3/explore?location=-12.998218%2C-38.522777%2C14.00)
-Base 3) IDESH_-_Setores_Censit%C3%A1rios_do_IBGE_2010.csv (source: https://dados.salvador.ba.gov.br/datasets/467ac1de99654030890d0af21724e1d3/explore?location=-12.998218%2C-38.522777%2C14.00)
+X
+X
+X
 
 
 ### 🔧 Installation
 
-Follow the steps in the jupyter notebook Final ML Project.ipynb
-The notebook is available at: https://github.com/RPAlbuquerque/Machine-Learning-PPGA-UFRGS/blob/main/Trabalho%20final%20ML.ipynb
+Create a Jupyter notebook...
 
 
 ## ⚙️ Running the Tests
@@ -59,7 +58,7 @@ The algorithms and tests follow the logic below:
 
 ## 📌 Version
 
-[SemVer](http://semver.org/) was used for version control. For available versions, see the [tags in this repository](https://github.com/suas/tags/do/projeto). 
+Create a notebook...
 
 ## ✒️ Authors
 
@@ -69,9 +68,8 @@ Vinícius Brei - PPGA/UFRGS
 
 ## 🎁 Acknowledgments
 
-Thanks to everyone who participated in the project.
-
-For more information, contact rafaelpalbuquerque@hotmail.com
+Thanks to everyone who participated in the project. 
+For more information, please contact rafaelpalbuquerque@hotmail.com.
 
 
 ---
