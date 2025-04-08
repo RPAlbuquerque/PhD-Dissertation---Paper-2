@@ -1,7 +1,7 @@
 
 # 📍 Consumer Mobility Dynamics
 
-### **Paper 2 — _The Effect of Consumer Mobility and e-WOM on Sales_**
+### **Paper 2 — _Pathways to Consumption: Physical Mobility, Digital Voice, and the Geography of Market Access_**
 
 **Abstract:**  
 This study investigates how physical consumer mobility influences retail sales, moderated by the digital sentiment expressed in geolocated tweets (e-WOM). Specifically, it explores:  
@@ -99,10 +99,11 @@ The analysis consists of the following stages:
 
 ## ✍️ Authors
 
-- **Rafael Pereira Albuquerque** — PPGA/UFRGS & Harvard CGA  
-- **Vinícius Brei** — PPGA/UFRGS  
-
-> For contact: rafaelpalbuquerque@hotmail.com
+- **Rafael Pereira Albuquerque** — PPGA/UFRGS & Harvard University - Center for Geographic Analysis  
+- **Vinícius Brei** — PPGA/UFRGS & MIT Media Lab 
+- **Devika Kakkar** - Harvard University - Center for Geographic Analysis
+  
+> For contact: rafaelpereiraalbuquerque@fas.harvard.edu
 
 ---
 
