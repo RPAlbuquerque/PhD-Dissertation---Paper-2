@@ -99,7 +99,7 @@ The analysis consists of the following stages:
 
 ## ✍️ Authors
 
-- **Rafael Pereira Albuquerque** — PPGA/UFRGS & Harvard University - Center for Geographic Analysis  
+- **Rafael Albuquerque** — PPGA/UFRGS & Harvard University - Center for Geographic Analysis  
 - **Vinícius Brei** — PPGA/UFRGS & MIT Media Lab 
 - **Devika Kakkar** - Harvard University - Center for Geographic Analysis
   
